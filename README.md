@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="thegreaterdev" />
+<img src="hero.svg" width="100%" alt="thegreaterdev" />
 
-<img src="./assets/ticker.svg" width="100%" alt="web apps · mobile apps · python · data · real-time systems" />
+<img src="ticker.svg" width="100%" alt="web apps · mobile apps · python · data · real-time systems" />
 
-<img src="./assets/core.svg" width="100%" alt="core" />
+<img src="core.svg" width="100%" alt="core" />
 
-<img src="./assets/signal.svg" width="100%" alt="signal" />
+<img src="signal.svg" width="100%" alt="signal" />
 
 <br/><br/>
 
